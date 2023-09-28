@@ -79,7 +79,7 @@
 
 Окружение: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0   
 
-Баг №4 - Ошибка 502 Bad Gateway при выполнении GET запроса на pxaction.com
+## Баг №4 - Ошибка 502 Bad Gateway при выполнении GET запроса на pxaction.com
 
 Предшествующие условия:
 
