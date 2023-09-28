@@ -22,7 +22,6 @@ PowerShell предоставляет более мощные возможнос
 
 Чтобы открыть журнал событий в PowerShell, можно использовать следующую команду:
 ```
-powershell
 Get-EventLog
 ```
 
@@ -34,13 +33,11 @@ Get-EventLog
 
 Чтобы просмотреть список доступных журналов событий в PowerShell, можно использовать команду:
 ```
-powershell
 Get-EventLog -List
 ```
 ## Какой командой можно узнать текущую версию PowerShell?
 
 Чтобы узнать текущую версию PowerShell, можно использовать команду:
 ```
-powershell
 $PSVersionTable.PSVersion
 ```
