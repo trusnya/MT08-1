@@ -5,8 +5,7 @@
 Примеры багов:
 
 неуспешная отправка запроса на vk.com, ошибки в JS-коде -
-"cannot read properties of undefined", ошибка во время загрузки ресурсов "server responded with
-a status of 502" и прочее
+"cannot read properties of undefined", ошибка во время загрузки ресурсов "server responded with a status of 502" и прочее
 
 Оформление баг-репорта:
 
