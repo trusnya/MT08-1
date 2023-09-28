@@ -20,7 +20,7 @@
 
 ##Баг №1 Ошибка запроса POST https://stream.datago.ru/mp/collect?tid=UA-89387429-1  
 Предшествующие условия:   
--Открыта страница сайта https://sbermegamarket.ru/ 
+-Открыта страница сайта https://sbermegamarket.ru/   
 -Открыта панель разработчика    
 Серьёзность: Lowest  
 Шаги воспроизведения:  
@@ -31,7 +31,7 @@
 
 Баг №2 Ошибка запроса GET https://main-cdn.sbermegamarket.ru/mid9/hlr-system/-15/559/350/149/231/8/600006719193b0.png
 Предшествующие условия
--Открыта страница сайта https://sbermegamarket.ru/ 
+-Открыта страница сайта https://sbermegamarket.ru/   
 -Открыта панель разработчика  
 Серьёзность Low
 Шаги воспроизведения:
@@ -46,7 +46,7 @@
 
 Баг №3 Ошибка запроса POST https://analytics.google.com/g/collect?v=2&tid=G-W49D2LL5S1&gtm=45je39p0&_p=209978253&cid=1156392431.1695885803&ul=ru-ru&sr=1536x864&dl=https://megamarket.ru/&sid=1695891898&sct=2&seg=1&dt=Маркетплейс Мегамаркет - место выгодных покупок&uid=&_s=15  
 Предшествующие условия:  
--Открыта страница сайта https://sbermegamarket.ru/  
+-Открыта страница сайта https://sbermegamarket.ru/    
 -Открыта панель разработчика    
 Серьёзность: Lowest  
 Шаги воспроизведения:  
